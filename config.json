@@ -63,22 +63,6 @@
 	{
             "algo": "rx/0",
             "coin": null,
-            "url": "185.208.156.197:1304",
-
-            "rig-id": null,
-"nicehash": true,
-            "keepalive": true,
-
-"enabled": true,
-            "tls": false,
-            "tls-fingerprint": null,
-            "daemon": false,
-            "socks5": null,
-            "self-select": null,
-            "submit-to-origin": false
-        } , 	{
-            "algo": "rx/0",
-            "coin": null,
             "url": "176.65.137.85:8081",
             "user": "rr22rr",
             "pass": "zm2od5",
@@ -98,23 +82,6 @@
             "coin": null,
             "url": "pool.supportxmr.com:80",
             "user": "89UoMhtsrpaJTvmJBbvy1cTdg38pomPFnW5Z4sniL2izcLQyGBkEGd96TcBJtzQUi6KAL5Ehe4cFpEMNdGF7tFKpJ1DqE8X",
-            "pass": "SHOULD",
-            "rig-id": null,
-
-            "keepalive": true,
-
-
-            "tls": false,
-            "tls-fingerprint": null,
-            "daemon": false,
-            "socks5": null,
-            "self-select": null,
-            "submit-to-origin": false
-        } , 	{
-            "algo": "rx/0",
-            "coin": null,
-            "url": "xmr.kryptex.network:7777",
-            "user": "89Arz88KTafhoTPAseYf2bfcWSjNq1YLaVY7ZkFaU21FivDueX4d7X7UErnyjAWHsVB1mibdTGHzqUTsS5FCMog89GVcQCh/SHOULD",
             "pass": "SHOULD",
             "rig-id": null,
 
